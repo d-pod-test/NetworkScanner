@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name             = 'NetworkScanner'
-s.version = '1.1.10'
+s.version = '1.1.99'
   s.summary          = 'Test'
   s.description      = 'A test cocoapod'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
